@@ -10,7 +10,7 @@ import {
 const LoginScreen = () => {
   return (
     <View>
-    <Text>mfgn b</Text>
+    <Text>Login</Text>
     </View>
   )
 }
